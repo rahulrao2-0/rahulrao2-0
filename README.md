@@ -57,21 +57,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0F0C29&height=3&width=100%"/>
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rahulrao2-0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=E8E8E8" alt="Rahul's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrao2-0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=E8E8E8" alt="Top Languages" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=rahulrao2-0&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer"/>
-
-<div align="center">
 <i>✨ Let's connect and build something amazing together ✨</i>
 </div>
