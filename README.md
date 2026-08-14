@@ -66,7 +66,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrao2-0&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=rahulrao2-0&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" />
 
 </div>
 
