@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
       <h1>Hi there, I'm Rahul Yadav 👋</h1>
       <h3>Full-Stack Software Engineer | Building Scalable & Event-Driven Systems</h3>
     </div>
@@ -77,14 +77,12 @@
 
     ### 📊 GitHub Stats
 
-    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rahulrao2-
-  0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Rahul's GitHub Stats" />
-      <br/>
-      <br/>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rahulrao2-0&show_icons=true&theme=radical"
+  alt="Rahul's GitHub Stats" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrao2-
-  0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-    </div>
+  0&layout=compact&theme=radical" alt="Top Languages" />
+    </p>
 
     ---
     <p align="center">
